@@ -1,2 +1,4 @@
 # Workshop-Git-GitHub
-Workshop de Git e GitHub do KATE
+Nome: Elias Nogueira
+Curso: Ciência da computação 
+Cidade: Maceió
